@@ -9,4 +9,3 @@ Final Results:
   \
 ![FinalResults](https://github.com/mymermer/CMP2003-Term-Project/blob/main/Solution/Results.png)
 
-###### _This project was finished at January 2022_
